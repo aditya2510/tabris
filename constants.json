@@ -1,0 +1,8 @@
+  {
+    "loginURL": "http://192.168.0.104:8090/NVWebsite/_ajax/service/signinApp",
+    "bookListURL": "http://192.168.0.104:8090/NVWebsite/_ajax/service/getBooks",
+    "image": "images/book_1984.jpg",
+    "popular": false,
+    "favorite": false
+  }
+

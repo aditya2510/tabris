@@ -1,0 +1,10 @@
+{
+  "title": "Bookstore",
+  "category": "Small Apps",
+  "description": "An example of a bookstore app",
+  "main": "Login.js",
+  "dependencies": {
+    "tabris": "^2.3.0"
+  }
+
+}
